@@ -21,13 +21,13 @@
 
 /* Self reactions */
 .reaction_fef95b.reactionMe__98f57 .reactionCount_b49901 {
-  color: var(--brand-experiment); /* A11Y-- */
+  color: #7289da; /* A11Y-- */
 }
 
 .mentioned__58017 .reaction_fef95b.reactionMe__98f57,
 .mentioned__58017 .reactionMe__98f57.mentioned__58017:hover,
 .mentioned__58017.reactionMe__98f57 {
-  background-color: var(--brand-experiment-30a);
+  background-color: rgba(114,137,218,0.3);
 }
 
 /* Reaction hover */
@@ -40,5 +40,5 @@
 }
 
 .mentioned__58017.reactionMe__98f57:hover {
-  background-color: var(--brand-experiment-40a);
+  background-color: rgba(114,137,218,0.4);
 }
